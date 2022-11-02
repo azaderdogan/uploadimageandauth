@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "230822613176",
+    "project_id": "soner-task",
+    "storage_bucket": "soner-task.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:230822613176:android:62523897ca1ca75cdda44d",
+        "android_client_info": {
+          "package_name": "com.example.task_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "230822613176-ulooukkfctdt6bnbdsseb9dimneo9f4n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHQxhz2lmXs8_MV9ETVa4UkJuu5GQSIVM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "230822613176-ulooukkfctdt6bnbdsseb9dimneo9f4n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
